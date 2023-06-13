@@ -1,0 +1,19 @@
+header{font-family: sans-serif;}
+
+*{margin: 0px;
+padding: 0px;}
+
+.cabecalho{background-color: rgb(226, 43, 43);
+color: white;
+display: flex;
+padding: 30px;
+font-size: 24px;
+justify-content: space-around;}
+
+.cabecalho-imagem{width: 150px;
+height: 150px;}
+
+.cabecalho-item{display: inline-block;
+padding: 0 100px;}
+
+.turma{background-image: linear-gradient(rgb);}
